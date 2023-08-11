@@ -1,0 +1,6 @@
+[submodule "Zeepkist.WorkshopApi.Drone"]
+	path = Zeepkist.WorkshopApi.Drone
+	url = git@github.com:tnrd-org/Zeepkist.WorkshopApi.Drone.git
+[submodule "Zeepkist.WorkshopApi.Backend"]
+	path = Zeepkist.WorkshopApi.Backend
+	url = git@github.com:tnrd-org/Zeepkist.WorkshopApi.Backend.git
