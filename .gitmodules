@@ -4,3 +4,6 @@
 [submodule "Zeepkist.WorkshopApi.Backend"]
 	path = Zeepkist.WorkshopApi.Backend
 	url = git@github.com:tnrd-org/Zeepkist.WorkshopApi.Backend.git
+[submodule "Zeepkist.WorkshopApi.Database"]
+	path = Zeepkist.WorkshopApi.Database
+	url = https://github.com/tnrd-org/Zeepkist.WorkshopApi.Database.git
