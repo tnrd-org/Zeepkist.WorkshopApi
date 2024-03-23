@@ -7,3 +7,6 @@
 [submodule "Zeepkist.WorkshopApi.Database"]
 	path = Zeepkist.WorkshopApi.Database
 	url = https://github.com/tnrd-org/Zeepkist.WorkshopApi.Database.git
+[submodule "Zeepkist.WorkshopApi.Backend.JsonApi"]
+	path = Zeepkist.WorkshopApi.Backend.JsonApi
+	url = https://github.com/tnrd-org/Zeepkist.WorkshopApi.Backend.JsonApi.git
